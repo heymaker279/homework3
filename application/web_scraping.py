@@ -4,7 +4,6 @@ import requests
 '''формат: <дата> - <заголовок> - <ссылка>'''
 KEYWORDS = ['дизайн', 'фото', 'React', 'python', 'DevOps', 'SQL']
 url = 'https://habr.com'
-id_ = ["660597", "660599", "660593"]
 HEADERS = {
     'Cookie': '_ym_uid=1639148487334283574; _ym_d=1639149414; _ga=GA1.2.528119004.1639149415; '
               '_gid=GA1.2.512914915.1639149415; habr_web_home=ARTICLES_LIST_ALL; hl=ru; fl=ru; _ym_isad=2; '
